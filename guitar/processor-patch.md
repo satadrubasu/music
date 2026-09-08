@@ -1,3 +1,16 @@
+## Home Patch test on Blackstar V4 as mini PA speaker for Stage emulation
+To make your Blackstar ID:Core V4 20 mimic a stage PA speaker as closely as possible while dialing in your patches, you must treat the Blackstar strictly as a neutral, full-range monitor. Because stage PAs are full-range systems, you must keep the Valeton GP-200's Cabinet Simulation / IRs turned ON.
+
+1. The Correct Cable Hookup
+Do not plug your Valeton into the standard front instrument input. This adds the Blackstar's internal preamp coloring to your sound.
+* Run a cable from the Left/Mono Output of the Valeton GP-200.
+* Connect it to the Line In / Aux In (3.5mm jack) on the top control panel of your Blackstar.
+* Note: You will need a 1/4" mono jack to 3.5mm mini-jack cable or adapter for this.
+This completely bypasses the Blackstar’s volume, gain, EQ, and voice knobs. The Blackstar is now acting purely as a power amp and a set of stereo full-range speakers, exactly like a mini PA system.
+
+
+
+
 The reason your tones change so drastically is because you are moving between three completely different audio environments.
    A patch created on headphones will almost never sound right when plugged into a guitar amplifier or a PA system.
    Here is exactly why this happens and how to set up your Valeton GP-200 to sound great in all three situations.
